@@ -9,5 +9,5 @@ Welcome to randomusert's mods organization. Here is going to have mods by random
 
 ## modpacks
 - gregtech pack
-- gregtech pack 2 (no files available)
+- gregtech pack 2
 - tincraft official modpack 1 (No release yet)
