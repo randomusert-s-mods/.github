@@ -6,8 +6,8 @@ Welcome to randomusert's mods organization. Here is going to have mods by random
 - tincraft (No longer in Development)
 - tincraft modpack core 1
 - gregtech pack core
-- Tincore (Only github maven releases)
-- tincraft 2 / tincraft rewritten (not released yet)
+- Tincore
+- tincraft 2 / tincraft rewritten
 
 ## modpacks
 - gregtech pack
